@@ -1,0 +1,8 @@
+List_copy/main
+Splay_tree/main
+Civilization/main
+SolvingProblems/main
+List_copy/build
+List_copy/.vscode
+List_copy/googletest
+*.o
